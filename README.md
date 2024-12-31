@@ -8,7 +8,7 @@ O projeto consiste em uma aplicação Java para consulta de endereços a partir 
 
 ## 🚀 Tecnologias Utilizadas
 
-- **Java 17**
+- **Java 21**
 - **IDE IntelliJ IDEA**
 - **Biblioteca GSON** - para manipulação de JSON
 - **API ViaCEP** - para consulta de endereços
