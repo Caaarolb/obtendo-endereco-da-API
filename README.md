@@ -30,7 +30,7 @@ O projeto consiste em uma aplicação Java para consulta de endereços a partir 
 
 3. Certifique-se de ter o Java 21 instalado.
 
-4. Execute o programa na classe principal (`Main.java`).
+4. Execute o programa na classe principal (`Principal.java`).
 
 ## 📝 Pré-requisitos
 
