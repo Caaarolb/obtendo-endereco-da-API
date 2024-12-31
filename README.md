@@ -8,7 +8,7 @@ O projeto consiste em uma aplicação Java para consulta de endereços a partir 
 
 ## 🚀 Tecnologias Utilizadas
 
-- **Java 21**
+- **Java 17**
 - **IDE IntelliJ IDEA**
 - **Biblioteca GSON** - para manipulação de JSON
 - **API ViaCEP** - para consulta de endereços
@@ -28,9 +28,9 @@ O projeto consiste em uma aplicação Java para consulta de endereços a partir 
 
 2. Abra o projeto em sua IDE preferida.
 
-3. Certifique-se de ter o Java 21 instalado.
+3. Certifique-se de ter o Java 17 instalado.
 
-4. Execute o programa na classe principal (`Principal.java`).
+4. Execute o programa na classe principal (`Main.java`).
 
 ## 📝 Pré-requisitos
 
@@ -56,5 +56,7 @@ Este projeto está sob a licença MIT. Sinta-se à vontade para usá-lo e aprimo
 
 Criado por **Jeisa Boaventura** como parte do programa **ONE - Oracle Next Education**.  
 - GitHub: [Caaarolb](https://github.com/Caaarolb)
-- LinkedIn: [Meu Perfil]([https://www.linkedin.com/in/seuperfil/](https://www.linkedin.com/in/-caroline-boaventura/))
+- LinkedIn: [Jeisa Boaventura](https://www.linkedin.com/in/-caroline-boaventura/)
+
+
 
