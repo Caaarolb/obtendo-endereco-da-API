@@ -56,5 +56,5 @@ Este projeto está sob a licença MIT. Sinta-se à vontade para usá-lo e aprimo
 
 Criado por **Jeisa Boaventura** como parte do programa **ONE - Oracle Next Education**.  
 - GitHub: [Caaarolb](https://github.com/Caaarolb)
-- LinkedIn: [Seu Perfil](https://www.linkedin.com/in/seuperfil/)
+- LinkedIn: [Meu Perfil]([https://www.linkedin.com/in/seuperfil/](https://www.linkedin.com/in/-caroline-boaventura/))
 
